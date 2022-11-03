@@ -41,6 +41,7 @@ $discard,site=torrentsnack.com
 $discard,site=fitgirlrepacks.co
 $discard,site=fitgirl-repacks.website
 $discard,site=thekickasstorrents.to
+$discard,site=rihnogames.com
 
 Trusted
 $boost=4,site=small-games.info 
