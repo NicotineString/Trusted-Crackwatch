@@ -43,6 +43,8 @@ $discard,site=fitgirl-repacks.website
 $discard,site=thekickasstorrents.to
 $discard,site=rihnogames.com
 $discard,site=elamigos.site
+$discard,site=gamingbeasts.com
+$discard,site=sproutwired.com
 
 Trusted
 $boost=4,site=small-games.info 
